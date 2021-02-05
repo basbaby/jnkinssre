@@ -7,7 +7,7 @@
 
 **Prerequisites:**
 1. Anypoint Platform 7+ is installed on your machine.
-2. You must have installed git on your local machine.
+2. You must have installed git on your local machine.ewewew
 3. You must have an access to [https://github.com/njclabs/apiops-anypoint-bdd-sapi/new/master/apiops-anypoint-bdd-sapi]. 
 If you don't have access to this then please mail to: **megha.kumar@njclabs.com, bejoy@njclabs.com or siva@njclabs.com**.
 
